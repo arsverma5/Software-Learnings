@@ -1,1 +1,5 @@
 /bin/
+.gitattributes
+.DS_Store
+.project
+.classpath
